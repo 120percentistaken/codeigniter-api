@@ -7,7 +7,7 @@
 1. Install/open xampp server
 2. Open Postman as well. The postman table is sent thru your working email.
 3. Import api-table.sql to your localhost.
-4. Open the master folder(simple-api folder) in your text editor (e.g Visual Studio etc.)
+4. Open the master branch(simple-api folder) in your text editor (e.g Visual Studio etc.)
 5. In the terminal, run php spark serve.
 6. After that go to Postman and do the retrieving of data in the table
 ![image](https://github.com/120percentistaken/codeigniter-api/assets/53334539/88b89c53-84e3-4067-b2c0-0fcea9dfe8cc)
